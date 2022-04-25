@@ -1,0 +1,14 @@
+.nav-enlace{
+    display: inline-block;
+    background:rgb(244, 96, 244) ;
+    color: azure;
+    padding: 10xp 30px;
+    text-decoration: none ;
+}
+.nav-enlace:hover{
+    background: rgb(244, 96, 232);
+}
+nav{
+    background-color: aliceblue;
+    padding: 10px;
+}
